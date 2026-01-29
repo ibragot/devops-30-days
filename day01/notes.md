@@ -1,4 +1,5 @@
 # Day 01 — Linux Environment Setup
+Date: 2026-01-27
 
 ## What is Linux?
 - Linux is an operating system used heavily on servers.The cpre of an operating system. 
